@@ -1,4 +1,4 @@
-# A Graphical Approach for Filter Pruning by Exploring the Similarity Relation between Feature Maps ([Link](https://doi.org/10.1016/j.patrec.2022.12.028))
+# A graphical approach for filter pruning by exploring the similarity relation between feature maps ([Link](https://doi.org/10.1016/j.patrec.2022.12.028))
 
 ## Installation
 
@@ -187,7 +187,3 @@ If you find our pruning method useful in your research, please consider citing:
   publisher={Elsevier}
 }
 ```
-
-## Acknowledgments
-
-This code heavily reuses the Keras example (provided [here](https://keras.io/zh/examples/cifar10_resnet)) for training ResNets on CIFAR-10.
